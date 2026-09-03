@@ -1,0 +1,8 @@
+{
+  "name": "Flight Search",
+  "description": "An AI-powered travel flight search agent that finds the cheapest, soonest, and fastest flights to any country or airport using real-time search grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
